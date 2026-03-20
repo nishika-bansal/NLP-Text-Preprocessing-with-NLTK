@@ -4,8 +4,6 @@
 This project is a text preprocessing tool built using Python and NLTK.
 
 ## 🚀 Features
-- Lowercasing
-- Remove punctuation, emojis, symbols, numbers
 - Tokenization
 - Stopword removal
 - Duplicate removal
@@ -18,5 +16,4 @@ This project is a text preprocessing tool built using Python and NLTK.
 - NLTK
 
 ## ▶️ How to Run
-```bash
 py preprocess.py
