@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Learning NLP is very interesting and useful for real world applications.
 I am improving my skills step by step in NLP.
+=======
+with open("input.txt", "r") as file:
+    text = file.read()
+    print(clean_text(text))
+>>>>>>> da7d8bd9d986b15b20d16f452c8e6e9e38471890

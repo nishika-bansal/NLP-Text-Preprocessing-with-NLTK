@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 love
 love nlp machin learn interest use
 love nlp machin learn interest use
 nishika bansal
+=======
+with open("output.txt", "w") as file:
+    file.write(result)learning nlp
+hello name dhanalakshmi currently studying btech st year interest nlp ai machine learning scored mark exam subject really really interesting useful realworld application however sometimes feel bit difficult practicing daily improving skill step step
+learning learning nlp really really fast
+learn nlp realli fast
+heyyyi dhana btech nd year studi srkr engineaddhyeyshhfgdhjsk
+>>>>>>> da7d8bd9d986b15b20d16f452c8e6e9e38471890
